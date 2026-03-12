@@ -1,19 +1,27 @@
-# instagram-clone
+# Instagram Clone
 
-A basic implementation of an Instagram clone. This repository showcases how to build a simple social media application using modern web technologies.
+## Introduction
+This repository contains a basic implementation of an Instagram clone. It showcases user profiles, image uploads, and social interactions.
 
 ## Features
-- User authentication.
-- Image uploads and sharing.
+- User authentication
+- Image uploads and feeds
+- Like and comment functionality
 
 ## Technology Stack
-- JavaScript
 - React
-- Firebase
+- Node.js
+- MongoDB
 
 ## Usage
-Clone the repository and follow the setup instructions to run the application locally.
+Clone the repository and start the application:
+```bash
+git clone https://github.com/username/instagram-clone.git
+cd instagram-clone
+npm install
+npm start
+```
 
 ## Future Plans
-- Add more features like comments and likes.
-- Improve UI based on user feedback.
+- Add more features like stories and messaging
+- Improve UI/UX based on user feedback
